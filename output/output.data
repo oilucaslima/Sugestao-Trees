@@ -1,0 +1,596 @@
+
+=================================================================================================================================================================
+                                                           ### FILE : filosofia.txt ###                                                           
+=================================================================================================================================================================
+
+[WORD RESEARCH] : filosofia      [OCCURRENCES]: 19
+_________________________________________________________________________________________________________________________________________________________________
+
+----------[BINARY TREE]--[WIDTH]---------------------------------------------------------------------------------------------------------------------------------
+
+- Word: virtual             Occurrences: 93
+- Word: assim               Occurrences: 94
+- Word: quanto              Occurrences: 95
+- Word: wittgenstein        Occurrences: 95
+- Word: É                  Occurrences: 96
+- Word: maneira             Occurrences: 95
+- Word: vista               Occurrences: 96
+- Word: sentido             Occurrences: 110
+- Word: pode                Occurrences: 95
+- Word: imanente            Occurrences: 104
+- Word: sobre               Occurrences: 114
+- Word: segundo             Occurrences: 114
+- Word: condição          Occurrences: 134
+- Word: mundo               Occurrences: 134
+- Word: teoria              Occurrences: 176
+- Word: priori              Occurrences: 125
+- Word: sujeito             Occurrences: 145
+- Word: pensamento          Occurrences: 115
+- Word: modo                Occurrences: 129
+- Word: sistema             Occurrences: 115
+
+----------[AVL TREE]--[WIDTH]------------------------------------------------------------------------------------------------------------------------------------
+
+- Word: sobre               Occurrences: 114
+- Word: quanto              Occurrences: 95
+- Word: condição          Occurrences: 134
+- Word: assim               Occurrences: 94
+- Word: imanente            Occurrences: 104
+- Word: priori              Occurrences: 125
+- Word: teoria              Occurrences: 176
+- Word: virtual             Occurrences: 93
+- Word: maneira             Occurrences: 95
+- Word: É                  Occurrences: 96
+- Word: sentido             Occurrences: 110
+- Word: pensamento          Occurrences: 115
+- Word: mundo               Occurrences: 134
+- Word: sujeito             Occurrences: 145
+- Word: pode                Occurrences: 95
+- Word: wittgenstein        Occurrences: 95
+- Word: vista               Occurrences: 96
+- Word: segundo             Occurrences: 114
+- Word: sistema             Occurrences: 115
+- Word: modo                Occurrences: 129
+
+----------[HUFFMAN TREE]--[WIDTH]--------------------------------------------------------------------------------------------------------------------------------
+
+- word: imanente             occourences: 104      code: 0000
+- word: sentido              occourences: 110      code: 0001
+- word: segundo              occourences: 114      code: 0010
+- word: sobre                occourences: 114      code: 0011
+- word: sistema              occourences: 115      code: 0100
+- word: pensamento           occourences: 115      code: 0101
+- word: priori               occourences: 125      code: 0110
+- word: modo                 occourences: 129      code: 0111
+- word: mundo                occourences: 134      code: 1000
+- word: condição           occourences: 134      code: 1001
+- word: sujeito              occourences: 145      code: 1010
+- word: teoria               occourences: 176      code: 1011
+- word: virtual              occourences: 93       code: 11000
+- word: assim                occourences: 94       code: 11001
+- word: pode                 occourences: 95       code: 11010
+- word: maneira              occourences: 95       code: 11011
+- word: quanto               occourences: 95       code: 11100
+- word: wittgenstein         occourences: 95       code: 11101
+- word: É                   occourences: 96       code: 11110
+- word: vista                occourences: 96       code: 11111
+
+[WORD RESEARCH] : escola      [OCCURRENCES]: 19
+_________________________________________________________________________________________________________________________________________________________________
+
+----------[BINARY TREE]--[WIDTH]---------------------------------------------------------------------------------------------------------------------------------
+
+- Word: virtual             Occurrences: 93
+- Word: assim               Occurrences: 94
+- Word: quanto              Occurrences: 95
+- Word: wittgenstein        Occurrences: 95
+- Word: É                  Occurrences: 96
+- Word: maneira             Occurrences: 95
+- Word: vista               Occurrences: 96
+- Word: sentido             Occurrences: 110
+- Word: pode                Occurrences: 95
+- Word: imanente            Occurrences: 104
+- Word: sobre               Occurrences: 114
+- Word: segundo             Occurrences: 114
+- Word: condição          Occurrences: 134
+- Word: mundo               Occurrences: 134
+- Word: teoria              Occurrences: 176
+- Word: priori              Occurrences: 125
+- Word: sujeito             Occurrences: 145
+- Word: pensamento          Occurrences: 115
+- Word: modo                Occurrences: 129
+- Word: sistema             Occurrences: 115
+
+----------[AVL TREE]--[WIDTH]------------------------------------------------------------------------------------------------------------------------------------
+
+- Word: sobre               Occurrences: 114
+- Word: quanto              Occurrences: 95
+- Word: condição          Occurrences: 134
+- Word: assim               Occurrences: 94
+- Word: imanente            Occurrences: 104
+- Word: priori              Occurrences: 125
+- Word: teoria              Occurrences: 176
+- Word: virtual             Occurrences: 93
+- Word: maneira             Occurrences: 95
+- Word: É                  Occurrences: 96
+- Word: sentido             Occurrences: 110
+- Word: pensamento          Occurrences: 115
+- Word: mundo               Occurrences: 134
+- Word: sujeito             Occurrences: 145
+- Word: pode                Occurrences: 95
+- Word: wittgenstein        Occurrences: 95
+- Word: vista               Occurrences: 96
+- Word: segundo             Occurrences: 114
+- Word: sistema             Occurrences: 115
+- Word: modo                Occurrences: 129
+
+----------[HUFFMAN TREE]--[WIDTH]--------------------------------------------------------------------------------------------------------------------------------
+
+- word: imanente             occourences: 104      code: 0000
+- word: sentido              occourences: 110      code: 0001
+- word: segundo              occourences: 114      code: 0010
+- word: sobre                occourences: 114      code: 0011
+- word: sistema              occourences: 115      code: 0100
+- word: pensamento           occourences: 115      code: 0101
+- word: priori               occourences: 125      code: 0110
+- word: modo                 occourences: 129      code: 0111
+- word: mundo                occourences: 134      code: 1000
+- word: condição           occourences: 134      code: 1001
+- word: sujeito              occourences: 145      code: 1010
+- word: teoria               occourences: 176      code: 1011
+- word: virtual              occourences: 93       code: 11000
+- word: assim                occourences: 94       code: 11001
+- word: pode                 occourences: 95       code: 11010
+- word: maneira              occourences: 95       code: 11011
+- word: quanto               occourences: 95       code: 11100
+- word: wittgenstein         occourences: 95       code: 11101
+- word: É                   occourences: 96       code: 11110
+- word: vista                occourences: 96       code: 11111
+
+[WORD RESEARCH] : paz      [OCCURRENCES]: 0
+_________________________________________________________________________________________________________________________________________________________________
+
+
+[WORD RESEARCH] : vida      [OCCURRENCES]: 26
+_________________________________________________________________________________________________________________________________________________________________
+
+----------[BINARY TREE]--[WIDTH]---------------------------------------------------------------------------------------------------------------------------------
+
+- Word: virtual             Occurrences: 93
+- Word: assim               Occurrences: 94
+- Word: quanto              Occurrences: 95
+- Word: wittgenstein        Occurrences: 95
+- Word: É                  Occurrences: 96
+- Word: maneira             Occurrences: 95
+- Word: vista               Occurrences: 96
+- Word: sentido             Occurrences: 110
+- Word: pode                Occurrences: 95
+- Word: imanente            Occurrences: 104
+- Word: sobre               Occurrences: 114
+- Word: segundo             Occurrences: 114
+- Word: condição          Occurrences: 134
+- Word: mundo               Occurrences: 134
+- Word: teoria              Occurrences: 176
+- Word: priori              Occurrences: 125
+- Word: sujeito             Occurrences: 145
+- Word: pensamento          Occurrences: 115
+- Word: modo                Occurrences: 129
+- Word: sistema             Occurrences: 115
+
+----------[AVL TREE]--[WIDTH]------------------------------------------------------------------------------------------------------------------------------------
+
+- Word: sobre               Occurrences: 114
+- Word: quanto              Occurrences: 95
+- Word: condição          Occurrences: 134
+- Word: assim               Occurrences: 94
+- Word: imanente            Occurrences: 104
+- Word: priori              Occurrences: 125
+- Word: teoria              Occurrences: 176
+- Word: virtual             Occurrences: 93
+- Word: maneira             Occurrences: 95
+- Word: É                  Occurrences: 96
+- Word: sentido             Occurrences: 110
+- Word: pensamento          Occurrences: 115
+- Word: mundo               Occurrences: 134
+- Word: sujeito             Occurrences: 145
+- Word: pode                Occurrences: 95
+- Word: wittgenstein        Occurrences: 95
+- Word: vista               Occurrences: 96
+- Word: segundo             Occurrences: 114
+- Word: sistema             Occurrences: 115
+- Word: modo                Occurrences: 129
+
+----------[HUFFMAN TREE]--[WIDTH]--------------------------------------------------------------------------------------------------------------------------------
+
+- word: imanente             occourences: 104      code: 0000
+- word: sentido              occourences: 110      code: 0001
+- word: segundo              occourences: 114      code: 0010
+- word: sobre                occourences: 114      code: 0011
+- word: sistema              occourences: 115      code: 0100
+- word: pensamento           occourences: 115      code: 0101
+- word: priori               occourences: 125      code: 0110
+- word: modo                 occourences: 129      code: 0111
+- word: mundo                occourences: 134      code: 1000
+- word: condição           occourences: 134      code: 1001
+- word: sujeito              occourences: 145      code: 1010
+- word: teoria               occourences: 176      code: 1011
+- word: virtual              occourences: 93       code: 11000
+- word: assim                occourences: 94       code: 11001
+- word: pode                 occourences: 95       code: 11010
+- word: maneira              occourences: 95       code: 11011
+- word: quanto               occourences: 95       code: 11100
+- word: wittgenstein         occourences: 95       code: 11101
+- word: É                   occourences: 96       code: 11110
+- word: vista                occourences: 96       code: 11111
+
+[WORD RESEARCH] : virtual      [OCCURRENCES]: 93
+_________________________________________________________________________________________________________________________________________________________________
+
+----------[BINARY TREE]--[WIDTH]---------------------------------------------------------------------------------------------------------------------------------
+
+- Word: realidade           Occurrences: 91
+- Word: assim               Occurrences: 94
+- Word: wittgenstein        Occurrences: 95
+- Word: pode                Occurrences: 95
+- Word: vista               Occurrences: 96
+- Word: maneira             Occurrences: 95
+- Word: É                  Occurrences: 96
+- Word: sentido             Occurrences: 110
+- Word: quanto              Occurrences: 95
+- Word: imanente            Occurrences: 104
+- Word: sobre               Occurrences: 114
+- Word: segundo             Occurrences: 114
+- Word: sistema             Occurrences: 115
+- Word: pensamento          Occurrences: 115
+- Word: teoria              Occurrences: 176
+- Word: mundo               Occurrences: 134
+- Word: priori              Occurrences: 125
+- Word: sujeito             Occurrences: 145
+- Word: modo                Occurrences: 129
+- Word: condição          Occurrences: 134
+
+----------[AVL TREE]--[WIDTH]------------------------------------------------------------------------------------------------------------------------------------
+
+- Word: wittgenstein        Occurrences: 95
+- Word: assim               Occurrences: 94
+- Word: sistema             Occurrences: 115
+- Word: realidade           Occurrences: 91
+- Word: maneira             Occurrences: 95
+- Word: sentido             Occurrences: 110
+- Word: mundo               Occurrences: 134
+- Word: quanto              Occurrences: 95
+- Word: pode                Occurrences: 95
+- Word: vista               Occurrences: 96
+- Word: sobre               Occurrences: 114
+- Word: modo                Occurrences: 129
+- Word: teoria              Occurrences: 176
+- Word: É                  Occurrences: 96
+- Word: imanente            Occurrences: 104
+- Word: segundo             Occurrences: 114
+- Word: pensamento          Occurrences: 115
+- Word: priori              Occurrences: 125
+- Word: condição          Occurrences: 134
+- Word: sujeito             Occurrences: 145
+
+----------[HUFFMAN TREE]--[WIDTH]--------------------------------------------------------------------------------------------------------------------------------
+
+- word: imanente             occourences: 104      code: 0000
+- word: sentido              occourences: 110      code: 0001
+- word: segundo              occourences: 114      code: 0010
+- word: sobre                occourences: 114      code: 0011
+- word: sistema              occourences: 115      code: 0100
+- word: pensamento           occourences: 115      code: 0101
+- word: priori               occourences: 125      code: 0110
+- word: modo                 occourences: 129      code: 0111
+- word: condição           occourences: 134      code: 1000
+- word: mundo                occourences: 134      code: 1001
+- word: sujeito              occourences: 145      code: 1010
+- word: teoria               occourences: 176      code: 1011
+- word: realidade            occourences: 91       code: 11000
+- word: assim                occourences: 94       code: 11001
+- word: wittgenstein         occourences: 95       code: 11010
+- word: quanto               occourences: 95       code: 11011
+- word: pode                 occourences: 95       code: 11100
+- word: maneira              occourences: 95       code: 11101
+- word: É                   occourences: 96       code: 11110
+- word: vista                occourences: 96       code: 11111
+
+[WORD RESEARCH] : sentido      [OCCURRENCES]: 110
+_________________________________________________________________________________________________________________________________________________________________
+
+----------[BINARY TREE]--[WIDTH]---------------------------------------------------------------------------------------------------------------------------------
+
+- Word: realidade           Occurrences: 91
+- Word: virtual             Occurrences: 93
+- Word: assim               Occurrences: 94
+- Word: wittgenstein        Occurrences: 95
+- Word: pode                Occurrences: 95
+- Word: vista               Occurrences: 96
+- Word: maneira             Occurrences: 95
+- Word: É                  Occurrences: 96
+- Word: sobre               Occurrences: 114
+- Word: quanto              Occurrences: 95
+- Word: segundo             Occurrences: 114
+- Word: sistema             Occurrences: 115
+- Word: imanente            Occurrences: 104
+- Word: pensamento          Occurrences: 115
+- Word: teoria              Occurrences: 176
+- Word: mundo               Occurrences: 134
+- Word: priori              Occurrences: 125
+- Word: sujeito             Occurrences: 145
+- Word: modo                Occurrences: 129
+- Word: condição          Occurrences: 134
+
+----------[AVL TREE]--[WIDTH]------------------------------------------------------------------------------------------------------------------------------------
+
+- Word: wittgenstein        Occurrences: 95
+- Word: assim               Occurrences: 94
+- Word: sistema             Occurrences: 115
+- Word: virtual             Occurrences: 93
+- Word: maneira             Occurrences: 95
+- Word: segundo             Occurrences: 114
+- Word: mundo               Occurrences: 134
+- Word: realidade           Occurrences: 91
+- Word: quanto              Occurrences: 95
+- Word: pode                Occurrences: 95
+- Word: vista               Occurrences: 96
+- Word: sobre               Occurrences: 114
+- Word: modo                Occurrences: 129
+- Word: teoria              Occurrences: 176
+- Word: É                  Occurrences: 96
+- Word: imanente            Occurrences: 104
+- Word: pensamento          Occurrences: 115
+- Word: priori              Occurrences: 125
+- Word: condição          Occurrences: 134
+- Word: sujeito             Occurrences: 145
+
+----------[HUFFMAN TREE]--[WIDTH]--------------------------------------------------------------------------------------------------------------------------------
+
+- word: vista                occourences: 96       code: 0000
+- word: imanente             occourences: 104      code: 0001
+- word: segundo              occourences: 114      code: 0010
+- word: sobre                occourences: 114      code: 0011
+- word: sistema              occourences: 115      code: 0100
+- word: pensamento           occourences: 115      code: 0101
+- word: priori               occourences: 125      code: 0110
+- word: modo                 occourences: 129      code: 0111
+- word: mundo                occourences: 134      code: 1000
+- word: condição           occourences: 134      code: 1001
+- word: sujeito              occourences: 145      code: 1010
+- word: teoria               occourences: 176      code: 1011
+- word: realidade            occourences: 91       code: 11000
+- word: virtual              occourences: 93       code: 11001
+- word: assim                occourences: 94       code: 11010
+- word: pode                 occourences: 95       code: 11011
+- word: quanto               occourences: 95       code: 11100
+- word: wittgenstein         occourences: 95       code: 11101
+- word: maneira              occourences: 95       code: 11110
+- word: É                   occourences: 96       code: 11111
+
+[WORD RESEARCH] : pessoa      [OCCURRENCES]: 0
+_________________________________________________________________________________________________________________________________________________________________
+
+
+[WORD RESEARCH] : maneira      [OCCURRENCES]: 95
+_________________________________________________________________________________________________________________________________________________________________
+
+----------[BINARY TREE]--[WIDTH]---------------------------------------------------------------------------------------------------------------------------------
+
+- Word: realidade           Occurrences: 91
+- Word: virtual             Occurrences: 93
+- Word: assim               Occurrences: 94
+- Word: wittgenstein        Occurrences: 95
+- Word: pode                Occurrences: 95
+- Word: vista               Occurrences: 96
+- Word: quanto              Occurrences: 95
+- Word: É                  Occurrences: 96
+- Word: sentido             Occurrences: 110
+- Word: imanente            Occurrences: 104
+- Word: sobre               Occurrences: 114
+- Word: segundo             Occurrences: 114
+- Word: sistema             Occurrences: 115
+- Word: pensamento          Occurrences: 115
+- Word: teoria              Occurrences: 176
+- Word: mundo               Occurrences: 134
+- Word: priori              Occurrences: 125
+- Word: sujeito             Occurrences: 145
+- Word: modo                Occurrences: 129
+- Word: condição          Occurrences: 134
+
+----------[AVL TREE]--[WIDTH]------------------------------------------------------------------------------------------------------------------------------------
+
+- Word: wittgenstein        Occurrences: 95
+- Word: virtual             Occurrences: 93
+- Word: sistema             Occurrences: 115
+- Word: realidade           Occurrences: 91
+- Word: quanto              Occurrences: 95
+- Word: sentido             Occurrences: 110
+- Word: mundo               Occurrences: 134
+- Word: assim               Occurrences: 94
+- Word: pode                Occurrences: 95
+- Word: vista               Occurrences: 96
+- Word: sobre               Occurrences: 114
+- Word: modo                Occurrences: 129
+- Word: teoria              Occurrences: 176
+- Word: É                  Occurrences: 96
+- Word: imanente            Occurrences: 104
+- Word: segundo             Occurrences: 114
+- Word: pensamento          Occurrences: 115
+- Word: priori              Occurrences: 125
+- Word: condição          Occurrences: 134
+- Word: sujeito             Occurrences: 145
+
+----------[HUFFMAN TREE]--[WIDTH]--------------------------------------------------------------------------------------------------------------------------------
+
+- word: imanente             occourences: 104      code: 0000
+- word: sentido              occourences: 110      code: 0001
+- word: segundo              occourences: 114      code: 0010
+- word: sobre                occourences: 114      code: 0011
+- word: sistema              occourences: 115      code: 0100
+- word: pensamento           occourences: 115      code: 0101
+- word: priori               occourences: 125      code: 0110
+- word: modo                 occourences: 129      code: 0111
+- word: mundo                occourences: 134      code: 1000
+- word: condição           occourences: 134      code: 1001
+- word: sujeito              occourences: 145      code: 1010
+- word: teoria               occourences: 176      code: 1011
+- word: realidade            occourences: 91       code: 11000
+- word: virtual              occourences: 93       code: 11001
+- word: assim                occourences: 94       code: 11010
+- word: pode                 occourences: 95       code: 11011
+- word: quanto               occourences: 95       code: 11100
+- word: wittgenstein         occourences: 95       code: 11101
+- word: É                   occourences: 96       code: 11110
+- word: vista                occourences: 96       code: 11111
+
+[WORD RESEARCH] : segundo      [OCCURRENCES]: 114
+_________________________________________________________________________________________________________________________________________________________________
+
+----------[BINARY TREE]--[WIDTH]---------------------------------------------------------------------------------------------------------------------------------
+
+- Word: realidade           Occurrences: 91
+- Word: virtual             Occurrences: 93
+- Word: assim               Occurrences: 94
+- Word: wittgenstein        Occurrences: 95
+- Word: pode                Occurrences: 95
+- Word: vista               Occurrences: 96
+- Word: maneira             Occurrences: 95
+- Word: É                  Occurrences: 96
+- Word: sentido             Occurrences: 110
+- Word: quanto              Occurrences: 95
+- Word: imanente            Occurrences: 104
+- Word: sobre               Occurrences: 114
+- Word: sistema             Occurrences: 115
+- Word: pensamento          Occurrences: 115
+- Word: teoria              Occurrences: 176
+- Word: mundo               Occurrences: 134
+- Word: priori              Occurrences: 125
+- Word: sujeito             Occurrences: 145
+- Word: modo                Occurrences: 129
+- Word: condição          Occurrences: 134
+
+----------[AVL TREE]--[WIDTH]------------------------------------------------------------------------------------------------------------------------------------
+
+- Word: wittgenstein        Occurrences: 95
+- Word: assim               Occurrences: 94
+- Word: sistema             Occurrences: 115
+- Word: virtual             Occurrences: 93
+- Word: maneira             Occurrences: 95
+- Word: sentido             Occurrences: 110
+- Word: mundo               Occurrences: 134
+- Word: realidade           Occurrences: 91
+- Word: quanto              Occurrences: 95
+- Word: pode                Occurrences: 95
+- Word: vista               Occurrences: 96
+- Word: sobre               Occurrences: 114
+- Word: modo                Occurrences: 129
+- Word: teoria              Occurrences: 176
+- Word: É                  Occurrences: 96
+- Word: imanente            Occurrences: 104
+- Word: pensamento          Occurrences: 115
+- Word: priori              Occurrences: 125
+- Word: condição          Occurrences: 134
+- Word: sujeito             Occurrences: 145
+
+----------[HUFFMAN TREE]--[WIDTH]--------------------------------------------------------------------------------------------------------------------------------
+
+- word: vista                occourences: 96       code: 0000
+- word: imanente             occourences: 104      code: 0001
+- word: sentido              occourences: 110      code: 0010
+- word: sobre                occourences: 114      code: 0011
+- word: sistema              occourences: 115      code: 0100
+- word: pensamento           occourences: 115      code: 0101
+- word: priori               occourences: 125      code: 0110
+- word: modo                 occourences: 129      code: 0111
+- word: mundo                occourences: 134      code: 1000
+- word: condição           occourences: 134      code: 1001
+- word: sujeito              occourences: 145      code: 1010
+- word: teoria               occourences: 176      code: 1011
+- word: realidade            occourences: 91       code: 11000
+- word: virtual              occourences: 93       code: 11001
+- word: assim                occourences: 94       code: 11010
+- word: pode                 occourences: 95       code: 11011
+- word: quanto               occourences: 95       code: 11100
+- word: wittgenstein         occourences: 95       code: 11101
+- word: maneira              occourences: 95       code: 11110
+- word: É                   occourences: 96       code: 11111
+
+[WORD RESEARCH] : modernidade      [OCCURRENCES]: 0
+_________________________________________________________________________________________________________________________________________________________________
+
+
+[WORD RESEARCH] : modo      [OCCURRENCES]: 129
+_________________________________________________________________________________________________________________________________________________________________
+
+----------[BINARY TREE]--[WIDTH]---------------------------------------------------------------------------------------------------------------------------------
+
+- Word: realidade           Occurrences: 91
+- Word: virtual             Occurrences: 93
+- Word: assim               Occurrences: 94
+- Word: wittgenstein        Occurrences: 95
+- Word: pode                Occurrences: 95
+- Word: vista               Occurrences: 96
+- Word: maneira             Occurrences: 95
+- Word: É                  Occurrences: 96
+- Word: sentido             Occurrences: 110
+- Word: quanto              Occurrences: 95
+- Word: imanente            Occurrences: 104
+- Word: sobre               Occurrences: 114
+- Word: segundo             Occurrences: 114
+- Word: sistema             Occurrences: 115
+- Word: pensamento          Occurrences: 115
+- Word: teoria              Occurrences: 176
+- Word: mundo               Occurrences: 134
+- Word: priori              Occurrences: 125
+- Word: sujeito             Occurrences: 145
+- Word: condição          Occurrences: 134
+
+----------[AVL TREE]--[WIDTH]------------------------------------------------------------------------------------------------------------------------------------
+
+- Word: wittgenstein        Occurrences: 95
+- Word: assim               Occurrences: 94
+- Word: sistema             Occurrences: 115
+- Word: virtual             Occurrences: 93
+- Word: maneira             Occurrences: 95
+- Word: sentido             Occurrences: 110
+- Word: mundo               Occurrences: 134
+- Word: realidade           Occurrences: 91
+- Word: quanto              Occurrences: 95
+- Word: pode                Occurrences: 95
+- Word: vista               Occurrences: 96
+- Word: sobre               Occurrences: 114
+- Word: priori              Occurrences: 125
+- Word: teoria              Occurrences: 176
+- Word: É                  Occurrences: 96
+- Word: imanente            Occurrences: 104
+- Word: segundo             Occurrences: 114
+- Word: pensamento          Occurrences: 115
+- Word: condição          Occurrences: 134
+- Word: sujeito             Occurrences: 145
+
+----------[HUFFMAN TREE]--[WIDTH]--------------------------------------------------------------------------------------------------------------------------------
+
+- word: vista                occourences: 96       code: 0000
+- word: imanente             occourences: 104      code: 0001
+- word: sentido              occourences: 110      code: 0010
+- word: segundo              occourences: 114      code: 0011
+- word: sobre                occourences: 114      code: 0100
+- word: sistema              occourences: 115      code: 0101
+- word: pensamento           occourences: 115      code: 0110
+- word: priori               occourences: 125      code: 0111
+- word: condição           occourences: 134      code: 1000
+- word: mundo                occourences: 134      code: 1001
+- word: sujeito              occourences: 145      code: 1010
+- word: teoria               occourences: 176      code: 1011
+- word: realidade            occourences: 91       code: 11000
+- word: virtual              occourences: 93       code: 11001
+- word: assim                occourences: 94       code: 11010
+- word: pode                 occourences: 95       code: 11011
+- word: quanto               occourences: 95       code: 11100
+- word: wittgenstein         occourences: 95       code: 11101
+- word: maneira              occourences: 95       code: 11110
+- word: É                   occourences: 96       code: 11111
+
+[WORD RESEARCH] : aquela      [OCCURRENCES]: 0
+_________________________________________________________________________________________________________________________________________________________________
+
